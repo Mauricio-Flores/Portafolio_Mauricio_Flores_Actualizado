@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+De la idea a la aplicación. Un recorrido visual por TaskTrack.
+
+00:06.000 --> 00:12.000
+HTML y CSS construyen la interfaz. Un formulario envía la información.
+
+00:12.000 --> 00:18.000
+Una ruta de Flask recibe los datos. Python valida y organiza la lógica.
+
+00:18.000 --> 00:24.000
+MySQL guarda las tareas y sus relaciones. Jinja2 presenta el resultado.
+
+00:24.000 --> 00:30.000
+TaskTrack conecta esas piezas: autenticación, tareas, categorías y filtros.
+
+00:30.000 --> 00:36.000
+El siguiente paso: seguir aprendiendo, construir y mejorar.
